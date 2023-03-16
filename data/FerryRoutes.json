@@ -1,0 +1,66 @@
+[
+  {
+    "X": 16.8839495,
+    "Y": 41.5586885,
+    "gid": 1,
+    "Name": "Ancona - Igoumenitsa",
+    "description": "15hr 00min",
+    "tessellate": 1
+  },
+  {
+    "X": 18.5658965,
+    "Y": 40.3083565,
+    "gid": 2,
+    "Name": "Bari - Igoumenitsa",
+    "description": "9hr 30min",
+    "tessellate": 1
+  },
+  {
+    "X": 20.998691,
+    "Y": 38.874462,
+    "gid": 3,
+    "Name": "Igoumenitsa - Patras",
+    "description": "6hr 00min",
+    "tessellate": 1
+  },
+  {
+    "X": 24.431996,
+    "Y": 36.6675235,
+    "gid": 4,
+    "Name": "Athens - Heraklion",
+    "description": "6hr 30min",
+    "tessellate": 1
+  },
+  {
+    "X": 25.978779,
+    "Y": 37.217229,
+    "gid": 5,
+    "Name": "Athens - Rhodes",
+    "description": "11hr 50min",
+    "tessellate": 1
+  },
+  {
+    "X": -5.43895900000013,
+    "Y": 53.330083,
+    "gid": 6,
+    "Name": "Holyhead - Dublin",
+    "description": "3hr 15min",
+    "tessellate": 1
+  },
+  {
+    "X": 21.4058977,
+    "Y": 59.385884,
+    "gid": 7,
+    "Name": "Stockholm - Tallinn",
+    "description": "16hr 55min",
+    "tessellate": 1
+  },
+  {
+    "X": 24.84753335,
+    "Y": 59.8039604,
+    "gid": 8,
+    "Name": "Helsinki - Tallinn",
+    "description": "2hr",
+    "tessellate": 1
+  }
+]

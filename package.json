@@ -1,0 +1,27 @@
+{
+  "name": "traveling-interrailer-problem",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@dagrejs/graphlib": "^2.1.12",
+    "@react-google-maps/api": "^2.18.1",
+    "csv-parse": "^5.3.6",
+    "dotenv": "^16.0.3",
+    "google-maps-react": "^2.0.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.28",
+    "@types/react-dom": "^18.0.11",
+    "@vitejs/plugin-react-swc": "^3.0.0",
+    "typescript": "^4.9.5",
+    "vite": "^4.1.0"
+  }
+}
